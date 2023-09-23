@@ -410,14 +410,7 @@ footer p a:hover {
   text-decoration: none;
 }
 
-.logo-icon {
-  width: 70;
-  height: 70;
-  object-fit: scale-down;
-}
-
 .table {
-  margin: auto;
   border: none;
   text-align: center;
 }
