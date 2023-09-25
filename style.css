@@ -440,3 +440,8 @@ footer p a:hover {
   border: 2px solid;
   padding: 10px 5px;
 }
+
+.introduction {
+  font-size: large;
+  text-align: left;
+}
